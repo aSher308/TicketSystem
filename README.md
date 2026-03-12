@@ -6,12 +6,6 @@ A full-stack ticket booking platform built with Spring Boot (Java) and React.
 - `backend/`: Spring Boot application providing RESTful APIs.
 - `frontend/`: React application providing the user interface.
 
-## Prerequisites
-- **Java 17+**
-- **Maven 3.8+**
-- **Node.js 18+** & **npm**
-- **SQL Server** (SSMS 22 or equivalent)
-
 ## Database Setup
 1. Open SQL Server Management Studio (SSMS) and create a database named `TicketSystem`:
    ```sql
