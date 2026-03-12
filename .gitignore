@@ -33,6 +33,9 @@ yarn-debug.log*
 yarn-error.log*
 lerna-debug.log*
 
+# Generated Tickets
+backend/tickets/
+
 # Runtime data
 pids
 *.pid
